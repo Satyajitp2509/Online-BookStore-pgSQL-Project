@@ -15,11 +15,11 @@ The dataset is loaded from CSV files (books.csv, customers.csv, orders.csv).
 
 
 # Project Structure
-├── books.csv         # Dataset of books
-├── customers.csv     # Dataset of customers
-├── orders.csv        # Dataset of orders
-├── pg_sql_project_Online_bookStore.sql     # Table creation + queries (Intermediate + Advanced)
-└── README.md         # Documentation
+  ├── books.csv         # Dataset of books
+  ├── customers.csv     # Dataset of customers
+  ├── orders.csv        # Dataset of orders
+  ├── bookstore.sql     # Table creation + queries (Intermediate + Advanced)
+  └── README.md         # Documentation
 
 
 # Learning Outcomes
